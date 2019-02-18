@@ -1,0 +1,17 @@
+{
+  "name": "micron-log-stdout-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "micron-runner --end 10100 --step 1000"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.4.13"
+  }
+}
