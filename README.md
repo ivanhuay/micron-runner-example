@@ -21,3 +21,7 @@ google-chrome results/index.html
 
 ## Benchmark detail
 in this test we compare `console.log` with `process.stdout.write`
+
+
+## View results
+[demo](https://ivanhuay.github.io/micron-runner-example/)
