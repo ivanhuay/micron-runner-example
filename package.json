@@ -1,8 +1,7 @@
 {
-  "name": "micron-log-stdout-example",
+  "name": "micron-runner-example",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "directories": {
     "test": "tests"
   },
@@ -12,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.4.13"
+    "micron-runner": "0.0.1"
   }
 }
