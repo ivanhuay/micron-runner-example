@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "micron-runner": "0.0.1"
+    "micron-runner": "0.0.6"
   }
 }
